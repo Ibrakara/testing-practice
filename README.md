@@ -1,1 +1,1 @@
-PRacticing testing with Jest
+Practicing testing with Jest
